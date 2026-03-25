@@ -22,6 +22,7 @@ public class Driver {
     private int mainMenu(){
         return ScannerInput.readNextInt("""
                Social Network Menu
+               Tymur
                   -----------------------
                   1) Add a Post
                   2) Update a Post
